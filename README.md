@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-아직은 잘 모르는 개발자..? 입니다.
+아직은 잘 모르는 개발자..?는 아니고 공부하는 사람입니다.
