@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-백수입니다.
+아직은 잘 모르는 개발자..? 입니다.
